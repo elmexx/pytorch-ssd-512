@@ -7,3 +7,4 @@ This repo implements [SSD (Single Shot MultiBox Detector)](https://arxiv.org/abs
 
 Thanks to @qfgaohao for the upstream implementation from:  [https://github.com/qfgaohao/pytorch-ssd](https://github.com/qfgaohao/pytorch-ssd)
 
+fork https://github.com/dusty-nv/pytorch-ssd.git
